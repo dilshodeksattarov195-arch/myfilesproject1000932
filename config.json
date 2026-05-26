@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypncrypt",
+        "uuid": 158440,
+        "checksum": "4h6nktb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
